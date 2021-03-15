@@ -27,11 +27,13 @@ Run from source
     ./roundcube.sh
 
 | If the installation is successful you should see the following message:
+
 .. code:: sh
+
     Have fun!
     All done.
-
+    ###################################
     Roundcube is updated to new version
- 
+    ################################### 
  
 | Good luck!
