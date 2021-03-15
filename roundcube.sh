@@ -1,5 +1,5 @@
 #!/bin/bash
-#yum install wget curl -y
+yum install wget curl -y
 current_version=`cat /usr/local/cwpsrv/var/services/roundcube/index.php | grep Version | cut -d " " -f 4`
 echo
 
