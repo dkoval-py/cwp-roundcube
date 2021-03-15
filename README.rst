@@ -30,8 +30,8 @@ Run from source
 .. code:: sh
     Have fun!
     All done.
-    ###################################
+
     Roundcube is updated to new version
-    ###################################
+ 
  
 | Good luck!
