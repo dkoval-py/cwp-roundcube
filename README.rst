@@ -2,7 +2,7 @@ What is this?
 ~~~~~~~~~~~~~
 
 | Roundcube installer
-| Script for CWP that cat install/upgrage/downgrade different Roundcube versions. 
+| Script for CWP that can install/upgrage/downgrade different Roundcube versions. 
 
 
 Instalation
