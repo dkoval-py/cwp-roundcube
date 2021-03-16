@@ -18,7 +18,7 @@ Instalation
 Run from source
 ~~~~~~~~~~~~~~~
 | When you're running script you should determine which Roundcube version you'd like to install or to which one upgrade/downgrade
-| All available Rouncube releases are available in the official Roundcube github repo: https://github.com/roundcube/roundcubemail/releases/
+| All available Rouncube releases you can find in the official Roundcube github repo: https://github.com/roundcube/roundcubemail/releases/
 | 
 
 * Run script:
